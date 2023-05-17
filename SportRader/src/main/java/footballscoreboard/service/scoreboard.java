@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class scoreboard {
+public class ScoreBoard {
 
     private Team homeTeam,awayTeam;
     List<List<Team>> matchAdded;
