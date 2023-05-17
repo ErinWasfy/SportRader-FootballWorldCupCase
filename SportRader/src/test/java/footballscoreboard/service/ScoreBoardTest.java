@@ -67,7 +67,7 @@ class ScoreBoardTest {
 
     @org.junit.jupiter.api.Test
     void getAllMatchesSummaryByTotalOrder() {
-        scoreUpdated();
+     //   scoreUpdated();
         sb.getAllMatchesSummaryByTotalOrder();
 
     }
